@@ -1,0 +1,40 @@
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/aos/aos.css"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/aos/aos.js"
+[params.variables]
+black = "#000000"
+dark = "#1D1C21"
+gray = "#CECECE"
+h1 = "46px"
+h1_md = "38px"
+h2 = "36px"
+h2_md = "28px"
+h3 = "24px"
+h3_md = "22px"
+h4 = "20px"
+h5 = "18px"
+h6 = "15px"
+icon_font = "Font Awesome 5 Free"
+light = "#F6F6F6"
+primary_color = "#FF3158"
+primary_font = "Quicksand:wght@500;600;700"
+primary_font_type = "sans-serif"
+secondary_color = "#FFBB33"
+tertiary_color = "#1E858B"
+white = "#ffffff"

@@ -1,0 +1,32 @@
+[[footer]]
+name = "General Terms"
+url = "terms-conditions/"
+weight = 1
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 2
+[[footer]]
+name = "Acceptable Use Policy"
+url = "acceptable-use-policy/"
+weight = 3
+[[footer]]
+name = "General Sales Condition"
+url = "general-sales-condition/"
+weight = 4
+[[footer]]
+name = "Ticket Disclaimer"
+url = "ticket-disclaimer/"
+weight = 5
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+[[main]]
+name = "About Us"
+url = "aboutus/"
+weight = 2
+[[main]]
+name = "How We Engage"
+url = "how-we-engage/"
+weight = 4

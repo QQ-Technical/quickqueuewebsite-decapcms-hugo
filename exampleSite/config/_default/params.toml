@@ -1,0 +1,45 @@
+apple_touch_icon = "images/quickqueue-favicon.png"
+author = "Quick Queue"
+contact_form_action = "/thank-you/"
+custom_script = ""
+description = "All-in-one event management platform for excellent in-person and hybrid events. Our platform empowers event organizers to streamline their events and grow their ROI by enabling them to deliver awesome event experiences.\n\nAn event registration consulting firm located in Kuala Lumpur (KL), Malaysia which focused on tackling challenges, and deliver solutions with QR Codes, Facial Recognition & NFC that drive effective results for event such as Conferences, Seminars, Banquet, Road Shows & etc.\n\nOur solutions are designed by event professionals and always being perfected through years of experience. Our proprietary solution has successfully reduced average market event registration queuing time from 3 hours to 30 minutes. An average processing time of a delegate has been improved from 8~10 minutes to 10~20 seconds."
+favicon = "images/quickqueue-favicon.png"
+favicon_16x16 = "images/quickqueue-favicon.png"
+favicon_32x32 = "images/quickqueue-favicon.png"
+image = "images/header.png"
+logo = "images/header.png"
+logo_text = "Quick Queue"
+logo_width = "250px"
+[cookies]
+button = "I Accept"
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+enable = false
+expire_days = "5"
+[footer_call_to_action]
+enable = true
+title = "An Elevated Registration Experience"
+[footer_cta_button]
+enable = true
+label = "Contact Us To Find Out More"
+link = "contact"
+[navigation_button_bordered]
+enable = true
+label = "Contact Us"
+link = "contact"
+[navigation_button_linked]
+enable = false
+label = "Log In"
+link = ""
+[preloader]
+enable = true
+greetings = "**Quick Queue**"
+greetings_to = ""
+preloader = "images/quickqueue-icon.png"
+[subscription]
+enable = false
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+[[social]]
+icon = "fab fa-facebook"
+link = "https://www.facebook.com/www.quickqueue.com.my"
+title = "facebook"

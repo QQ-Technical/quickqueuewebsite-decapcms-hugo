@@ -1,0 +1,14 @@
+[en]
+contentDir = "content/english"
+copyright = "Copyright 2015 - <script>document.write(new Date().getFullYear())</script> © Quick Queue Sdn Bhd. Co. Reg. No. 201501003491 (1128823-K).<br>\nMaterials included herein protected under copyright law."
+footer_content = "L5-12, Wisma BU8,<br>\n11, Lebuh Bandar Utama,<br>\nBandar Utama,<br>\n47800 Petaling Jaya, Selangor.\n<br><br>\nP: <a href=\"tel:+603-8408 1328\">+603-8408 1328</a><br>\nE: <a href=\"mailto:enquiry@quickqueue.com.my\">enquiry@quickqueue.com.my</a>"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[fr]
+contentDir = ""
+copyright = ""
+footer_content = ""
+languageCode = ""
+languageName = ""
+weight = ""
